@@ -1,0 +1,22 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Babylon AI Video</title>
+<style>
+body{background:#101020;color:white;font-family:Arial,sans-serif;text-align:center;padding:30px 15px}
+h1{color:#a78bfa}
+textarea{width:90%;height:120px;border-radius:10px;padding:10px}
+button{background:#7c3aed;color:white;border:0;padding:14px 24px;border-radius:8px}
+</style>
+</head>
+<body>
+<h1>Babylon AI Video</h1>
+<p>Turn your ideas into amazing videos!</p>
+<textarea placeholder="Describe the video you want to create"></textarea>
+<p><button>Generate Video</button></p>
+<p>Welcome to your AI video studio.</p>
+</body>
+</html>
